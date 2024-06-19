@@ -1,2 +1,3 @@
 # JavaScript-Practice-Manual
-Manual de Practico sobre el Lenguaje de Programación JavaScript
+
+## Descripcion: Este Repositorio incluye una Serie de Ejercicios y Ejemplos Prácticos de JavaScript, Diseñados para Ayudarte a Reforzar y Perfeccionar tus Habilidades de Programación.
